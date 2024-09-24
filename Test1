@@ -1,0 +1,2 @@
+str1="String function length"
+print(str1)cd ..
